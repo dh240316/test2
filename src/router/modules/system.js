@@ -3,7 +3,6 @@ const Layout = () => import('@/layout/index.vue')
 const sysRole = () => import('@/views/system/sysRole.vue')
 const sysUser = () => import('@/views/system/sysUser.vue')
 const sysMenu = () => import('@/views/system/sysMenu.vue')
-
 // 导出该组件
 export default([
     {
